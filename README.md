@@ -4,6 +4,8 @@ This is a project to check some habilities to execute the Sr QA role position. W
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 
+Video presentation: [Video Coodesh](https://www.loom.com/share/cc1550a51ac64ae0a11e1feb74cecb9d)
+
 
 # Tecnologies
 
