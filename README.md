@@ -9,9 +9,9 @@ Video presentation: [Video Coodesh](https://www.loom.com/share/cc1550a51ac64ae0a
 
 # Tecnologies
 
-JavaScript </ b>
-Jest </ b>
-Jest - Allure </ b>
+JavaScript <br/>
+Jest <br/>
+Jest - Allure <br/>
 
 # How to run this project
 Clone/Download this repository and open its root directory and install all dependencies, so to install input in your terminal this command bellow:
