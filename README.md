@@ -1,6 +1,6 @@
 # Basic JEST Challenge
 
-This is a project to check some habilities to execute the Sr QA role position. We develloper some validations using a Jest framework with javascript language, and we can get the result to Allure report.
+This is a project to check abilities to execute the Sr QA role position. We developed some validations using a Jest framework with javascript language, and we can get the result to Allure report.
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 
